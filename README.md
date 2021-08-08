@@ -1,8 +1,8 @@
 # Flask_carpets
 
-This is Online shop site created with Python on Flask frameworkю
+This is Online shop website created with Python on Flask Framework
 
-## Functions of this site
+## Functions of this website
 1. Adding new products 
 2. Buying product
 
